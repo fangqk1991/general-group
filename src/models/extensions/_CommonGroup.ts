@@ -11,8 +11,8 @@ class CommonMemberDup extends _CommonMember {}
 class CommonPermissionDup extends _CommonPermission {}
 
 export class _CommonGroup<
-  T_CommonMember extends _CommonMember,
-  T_CommonPermission extends _CommonPermission
+  T_CommonMember extends _CommonMember = _CommonMember,
+  T_CommonPermission extends _CommonPermission = _CommonPermission
 > extends __CommonGroup {
   public static CommonMember: typeof _CommonMember = CommonMemberDup
   public static CommonPermission: typeof _CommonPermission = CommonPermissionDup
