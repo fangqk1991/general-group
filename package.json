@@ -1,6 +1,6 @@
 {
   "name": "@fangcha/general-group",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "General Group.",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
@@ -19,8 +19,6 @@
   "dependencies": {
     "@fangcha/assert": "^1.1.0",
     "@fangcha/logger": "^0.2.0",
-    "fc-feed": "^0.16.0",
-    "fc-sql": "^0.28.0",
     "tslib": "^2.4.0"
   },
   "devDependencies": {
@@ -30,6 +28,8 @@
     "@types/assert": "^1.5.4",
     "@types/mocha": "^8.2.2",
     "@types/node": "^17.0.30",
+    "fc-feed": "^0.17.0",
+    "fc-sql": "^0.28.0",
     "mocha": "^8.4.0",
     "nyc": "^15.1.0",
     "ts-node-dev": "^1.1.8",
