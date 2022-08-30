@@ -233,10 +233,10 @@
     lodash "^4.17.15"
     tslib "^2.3.1"
 
-"@fangcha/tools@^1.19.0":
-  version "1.19.0"
-  resolved "https://registry.yarnpkg.com/@fangcha/tools/-/tools-1.19.0.tgz#67c465d4b6d11fac1687b94dccd29cb58a20ed0a"
-  integrity sha512-98GKijDG08kuK1E91jdRimSNvF8cgdXAbu71PykLZGupjnBkju3K+sTSjgrt6bmOtcIVy8OifCSYAguQgH4JVQ==
+"@fangcha/tools@^1.21.1":
+  version "1.21.1"
+  resolved "https://registry.yarnpkg.com/@fangcha/tools/-/tools-1.21.1.tgz#2fce119593f188e40a9733cf9b86317f552614ce"
+  integrity sha512-fJolc1JCA4ZMJDRNVl2aPqKMSeJbaQ5GO3/7LacNBwlDFeuxUntobFweYXKz7U65z9VzFI4XRPkQIHmqHLUBgw==
   dependencies:
     moment "^2.29.1"
     tslib "^2.3.1"
@@ -1221,15 +1221,15 @@ fast-levenshtein@~2.0.6:
   resolved "https://registry.yarnpkg.com/fast-levenshtein/-/fast-levenshtein-2.0.6.tgz#3d8a5c66883a16a30ca8643e851f19baa7797917"
   integrity sha1-PYpcZog6FqMMqGQ+hR8Zuqd5eRc=
 
-fc-feed@^0.17.0:
-  version "0.17.0"
-  resolved "https://registry.yarnpkg.com/fc-feed/-/fc-feed-0.17.0.tgz#6712b7b9f0fae808eb90076253bf17823cebdeea"
-  integrity sha512-W+IDqXGTxnkNtTsBAFDRhCCLcOwdlkXCNSROASFSymStR4xJy1ufBEt2g8ev5MZWKXxhJkRUWUBGCk8OICMgqA==
+fc-feed@^0.19.0:
+  version "0.19.0"
+  resolved "https://registry.yarnpkg.com/fc-feed/-/fc-feed-0.19.0.tgz#e60ef6de983d6720dac44425702c95949db070bd"
+  integrity sha512-Fx7yG+wwd68mPCSacOm5P3abqQaf0gCiCSCSltNCOXlLiKln+wmd6nBRIFLAUXuaDoiMG8CCUEqQ6LDwqT+jhA==
 
-fc-sql@^0.28.0:
-  version "0.28.0"
-  resolved "https://registry.yarnpkg.com/fc-sql/-/fc-sql-0.28.0.tgz#7655fded34fcb334756e616ac803414633eac743"
-  integrity sha512-dKI+zy3FTZD5kGk9m8XBslWDiO86lKtEtFnG6KYL7XTQevoAMCa1r2fRaShAwUfyt7wcnwcW6nFyqwUSyH4xkQ==
+fc-sql@^0.28.1:
+  version "0.28.1"
+  resolved "https://registry.yarnpkg.com/fc-sql/-/fc-sql-0.28.1.tgz#d5918e33d120b7a0460d92ab883dad9a4f03395b"
+  integrity sha512-Dz8WR0qxXYLJDg2mPJE8gSCL7/tD4hte8PrOUyOPSwadnvONLO9xg3oyh3wQ/z/Q40yBth3aoJMMKKVRL1790A==
   dependencies:
     moment "^2.24.0"
     mysql2 "^1.7.0"
